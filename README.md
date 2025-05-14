@@ -1,4 +1,4 @@
-# :school: Proffy-NLW2
+# :school: Proffe
 ##### Open Source software desenvolvido pela rocketseat durante a 2º Edição da NLW #####
 ###### Trilha Booster
 Tecnologias Utilizadas:
